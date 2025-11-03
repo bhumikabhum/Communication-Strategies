@@ -1,0 +1,5 @@
+# Basic dependencies (install in Python3 venv)
+smbus2>=0.4.1
+numpy>=1.21.0
+pyttsx3>=2.90
+mpu6050-raspberrypi>=0.0.9
